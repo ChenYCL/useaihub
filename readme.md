@@ -1,9 +1,33 @@
-整体效果：
 
+# 如果您是其它行业的，这里有5分钟快速安装docker步骤：
 
+## macOS 用户安装 Docker
+
+1. 访问 [Docker 官网](https://www.docker.com/products/docker-desktop/)
+2. 点击 "Download for Mac" 按钮
+3. 下载完成后,双击 "Docker.dmg" 文件
+4. 在打开的窗口中,将 Docker 图标拖拽到 Applications 文件夹
+5. 打开 Applications 文件夹,双击 Docker 图标启动它
+6. 首次启动时,系统可能会要求输入管理员密码,请输入并确认
+7. Docker 启动后,顶部菜单栏会出现一个小鲸鱼图标
+8. 打开 Terminal(终端),输入 `docker --version` 确认安装成功
+
+## Windows 用户安装 Docker
+
+1. 访问 [Docker 官网](https://www.docker.com/products/docker-desktop/)
+2. 点击 "Download for Windows" 按钮
+3. 下载完成后,双击运行 "Docker Desktop Installer.exe"
+4. 在安装向导中,保持默认选项,点击 "Ok" 继续
+5. 安装完成后,点击 "Close and restart" 重启电脑
+6. 重启后,Docker 会自动启动。任务栏中会出现 Docker 图标
+7. 首次运行可能会弹出提示,要求安装 WSL 2。按照提示完成安装
+8. 打开 PowerShell 或命令提示符,输入 `docker --version` 确认安装成功
+
+## 整体效果：
 
 https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
 
+## 如何使用
 
 1. 部署 Lobe Chat:
 
@@ -33,7 +57,6 @@ https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
   - 访问 http://localhost:3210 使用 Lobe Chat
 
 
-
 2. 配置 OpenAI 接口服务:
 
    a. 访问 api.useaihub.com 注册账号并获取 API 密钥。
@@ -46,11 +69,12 @@ https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
 
    d. 保存设置。
    
-   e. 加我wc通知我改群组，开放更多模型!
-   
-   <img src="https://github.com/user-attachments/assets/c23dc989-c605-44f2-8df7-b17dfc84a079" width="80" height="80">
-
 
 4. 开始使用:
    现在你可以开始使用 Lobe Chat,它将通过你在 api.useaihub.com 的账户访问 OpenAI 的服务。
+
+ ## 改群组，开放更多模型!
+   
+<img src="https://github.com/user-attachments/assets/c23dc989-c605-44f2-8df7-b17dfc84a079" width="80" height="80">
+
 
