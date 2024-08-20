@@ -14,8 +14,10 @@ https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
       - 使用 Docker 部署
 
    c. 对于 Vercel 一键部署:
-      - 点击仓库中的 "Deploy with Vercel" 按钮
-      - 按照 Vercel 的指引完成部署
+   
+| Deploy with Vercel |
+| :-----------------: |
+| [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat&project-name=lobe-chat&repository-name=lobe-chat) |
 
    d. 对于 Docker 部署:
       - 运行以下命令:
