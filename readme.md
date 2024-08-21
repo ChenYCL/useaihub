@@ -59,7 +59,9 @@ https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
 
 2. 配置 OpenAI 接口服务:
 
-   a. 访问 api.useaihub.com 注册账号并获取 API 密钥。
+   a. 访问 api.useaihub.com 注册账号并获取 API 密钥（https://api.useaihub.com/token）。
+<img width="1559" alt="image" src="https://github.com/user-attachments/assets/8fc882c4-1db2-463a-9ffc-fdec321caf13">
+
 
    b. 在已部署的 Lobe Chat 中,打开设置。
 
