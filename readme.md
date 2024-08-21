@@ -75,8 +75,9 @@ https://github.com/user-attachments/assets/0f8e33b0-984d-4e7d-8257-9a2cd971a033
 4. 开始使用:
    现在你可以开始使用 Lobe Chat,它将通过你在 api.useaihub.com 的账户访问 OpenAI 的服务。
 
- ## 改群组，开放更多模型!
+ ## 加入群组，联系我修改用户类别更多模型!
+ https://github.com/user-attachments/assets/4bafc182-f842-46d0-b0cb-18eb113589b8
    
-<img src="https://github.com/user-attachments/assets/c23dc989-c605-44f2-8df7-b17dfc84a079" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/4bafc182-f842-46d0-b0cb-18eb113589b8" width="200" height="300">
 
 
